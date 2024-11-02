@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ehenaapo.github.io/JnI/sitemap_index.txt
+Sitemap: https://ehenaapo.github.io/ftE/sitemap_index.txt
+Sitemap: https://ehenaapo.github.io/qMi/sitemap_index.txt
+Sitemap: https://ehenaapo.github.io/yeh/sitemap_index.txt
